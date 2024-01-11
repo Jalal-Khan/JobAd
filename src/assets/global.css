@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+
+body {
+  font-family: 'Open Sans';
+  /* background: #ece6d9; */
+  /* background: #001F3F;
+  background: #00FF00; */
+  /* background: #C0C0C0; */
+  background: linear-gradient(to right, #a3e3ff, #a3ffa3, #e6e6e6);
+}
+
+@font-face {
+  font-family: HyliaSerif;
+  src: url("HyliaSerifBeta-Regular.otf") format("opentype");
+}
+
+h1{
+  font-family: HyliaSerif;
+  letter-spacing: 4px;
+}
