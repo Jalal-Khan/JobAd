@@ -67,7 +67,7 @@ export default defineComponent({
     /* color: #1195c9; */
     border: 3px solid linear-gradient(to right, #a3e3ff, #a3ffa3, #e6e6e6);
     /* background: #d5f0ff; */
-    color: #00FF00; /* Text color when not hovered */
+    color: #17bf66; /* Text color when not hovered */
     background: #001F3F;
     padding: 8px 16px;
     border-radius: 4px;
@@ -78,7 +78,7 @@ export default defineComponent({
   }
   button:hover {
     color: #001F3F;
-  background: #00FF00; /* Change the background color on hover */
+  background: #17bf66; /* Change the background color on hover */
 }
   header .title{
     display: flex;
